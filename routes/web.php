@@ -20,7 +20,7 @@ Route::get('table',function(){
 Route::get('add',function(){
 	return view('admin.user.add');
 });
-Route::get('login',function(){
+Route::get('loginjhjhjh',function(){
 	return view('admin.login');
 });
 Route::post('check',function(){
